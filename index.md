@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Pallav's First GitHub Page!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,6 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+//Hello, Pallav :)
 Syntax highlighted code block
 
 # Header 1
@@ -17,6 +18,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Another item
 
 1. Numbered
 2. List
